@@ -7,7 +7,7 @@
 + lon
   - dd
 + height
-  - ellips
+  - z_ellips
 + unix_time
 + gps_time
 
